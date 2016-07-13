@@ -17,3 +17,7 @@ The app is actually not doing much, except for parsing some HTML results (which 
 * http://www.vocabulario.ch/vallader/v0.1/i.php, Vocabulario, www.vocabulario.ch
 
 I hope this will help the very small Vallader community to keep their language so it doesn't die. More information about Vallader: https://en.wikipedia.org/wiki/Vallader_dialect_(Romansh)
+
+I took the very icy looking picture in Scuol myself.
+The summer picture is from wikimedia user Aconcagua https://commons.wikimedia.org/wiki/File:Scuol_03.jpg
+
