@@ -1,6 +1,8 @@
 ValladerCordova
 ===============
 
+Contact is possible via Email: vallader-app <at> floyd.ch
+
 Vallader Romansh - German dictionary app for Android and iOS (currently, as it is Cordova it can be adopted to work on any mobile phone). You can type a word in German or Vallader Romansh and it will display some results from web sources and link to the original results.
 
 Just to make sure we catch all people who search for something like this, in all languages:

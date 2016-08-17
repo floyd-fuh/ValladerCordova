@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="ch.floyd.vallader" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="ch.floyd.vallader" version="2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Vallader</name>
     <description>
-        A translation app for word from German to Vallader Romansh and vice versa.
+        A translation app for words from German to Vallader Romansh and vice versa.
     </description>
     <author email="vallader-app@floyd.ch" href="http://cordova.io">
         floyd
@@ -27,5 +27,17 @@
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
+	    <config-file platform="ios" target="*-Info.plist" parent="UISupportedInterfaceOrientations">
+	        <array>
+	            <string>UIInterfaceOrientationPortrait</string>
+	        </array>
+	    </config-file>
+
+	    <config-file platform="ios" target="*-Info.plist" parent="UISupportedInterfaceOrientations~ipad">
+	        <array>
+	            <string>UIInterfaceOrientationPortrait</string>
+	            <string>UIInterfaceOrientationPortraitUpsideDown</string>
+	        </array>
+	    </config-file>
     </platform>
 </widget>
