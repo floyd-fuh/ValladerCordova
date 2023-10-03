@@ -1,3 +1,5 @@
+Due to no one in the Romansh community wanting to take over the mobile apps with hundred of installations and me simply not having the time to maintain it, this project is now archived and unmaintained.
+
 ValladerCordova
 ===============
 
